@@ -20,7 +20,7 @@ There are part of this code taken from other projects, but as I did this ages ag
 
 5. Run `npm start`
 
-   
+*You might need to install some additional libraries
 
 ## LICENSE
 
